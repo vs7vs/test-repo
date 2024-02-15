@@ -1,2 +1,2 @@
 This is from another computer.
-print(Valli stinkt)
+print(Valli stinkt). Edit from admin: prakti wird gefeurt.
